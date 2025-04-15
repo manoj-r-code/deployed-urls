@@ -49,7 +49,6 @@ A lightweight, plug-and-play charting utility built with React and Chart.js, per
 
 For collaboration or freelance work, reach out to me at:
 - 📧 Email: manu.ravindra.123@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
 
